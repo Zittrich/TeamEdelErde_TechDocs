@@ -23,6 +23,7 @@ site_name: Material for MkDocs
 
 # Configuration
 theme:
+  name: material
   features:
     - announce.dismiss
     - content.action.edit
