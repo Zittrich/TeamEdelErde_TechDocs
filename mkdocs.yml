@@ -1,3 +1,13 @@
 site_name: EdelErde Documentation
+
+theme:
+  name: material
+  features:
+- content.code.annotate
+- content.code.copy
+- content.tabs.link
+- header.tabs.link
+
+
 nav:
   - Home: index.md
