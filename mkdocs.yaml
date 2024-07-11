@@ -1,7 +1,0 @@
-site_name: GameJam Dokumentation
-
-nav:
-  - Home: index.md
-
-theme:
-  name: 'material'
