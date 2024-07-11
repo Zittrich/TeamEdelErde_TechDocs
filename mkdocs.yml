@@ -1,4 +1,4 @@
-site_name: EdelErde Documentation
+site_name: EdelErdeDocumentation
 
 theme:
   name: material
@@ -7,7 +7,6 @@ theme:
     - content.code.copy
     - content.tabs.link
     - header.tabs.link
-
 
 nav:
   - Home: index.md
